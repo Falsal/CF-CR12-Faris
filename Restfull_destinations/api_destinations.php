@@ -24,11 +24,7 @@
                 </div>
                 
                 
-                <div class='col d-flex justify-content-center'>
-                    <a href='update.php?id=" .$data['id']."'><button class='btn btn-primary btn-sm' type='button'>Edit</button></a>
-                    <a href='details.php?id=" .$data['id']."'><button class='btn btn-outline-info btn-sm' type='button'>more info</button></a>
-                    <a href='delete.php?id=" .$data['id']."'><button class='btn btn-danger btn-sm' type='button'>Delete</button></a>
-                </div>
+ 
             </div>
         ";
     }
